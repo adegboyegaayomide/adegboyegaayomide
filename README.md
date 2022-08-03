@@ -1,7 +1,7 @@
 
 
 <h1 align="center">Hi 👋, I'm adegboyega michael</h1>
-![IMG_20211229_161955_9_2](https://user-images.githubusercontent.com/83494187/182667618-e1e2ef3a-93ad-4c94-9dea-9328ea9355f8.jpeg)
+![IMG_20211229_161955_9_2](https://user-images.githubusercontent.com/83494187/182667866-32ee96bc-011b-4270-8899-301540c76435.jpeg)
 
 <h3 align="center">A passionate frontend developer fromlagos nigeria</h3>
 
