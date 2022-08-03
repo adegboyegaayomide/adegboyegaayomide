@@ -1,6 +1,8 @@
 
-[![Ayomide's GitHub stats](https://github-readme-stats.vercel.app/api?username=adegboyegaayomide)](https://github.com/anuraghazra/github-readme-stats)
+
 <h1 align="center">Hi 👋, I'm adegboyega michael</h1>
+![IMG_20211229_161955_9_2](https://user-images.githubusercontent.com/83494187/182667618-e1e2ef3a-93ad-4c94-9dea-9328ea9355f8.jpeg)
+
 <h3 align="center">A passionate frontend developer fromlagos nigeria</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adegboyegaayomide&label=Profile%20views&color=0e75b6&style=flat" alt="adegboyegaayomide" /> </p>
