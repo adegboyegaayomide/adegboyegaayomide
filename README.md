@@ -2,6 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm adegboyega michael</h1>
 
+![myself](https://user-images.githubusercontent.com/83494187/182971122-a3b5a0c0-b6cb-41d4-b03e-d5f031189cba.jpg)
 
 <h3 align="center">A passionate frontend developer fromlagos nigeria</h3>
 
