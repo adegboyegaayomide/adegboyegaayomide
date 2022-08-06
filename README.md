@@ -32,6 +32,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=adegboyegaayomide&show_icons=true&locale=en" alt="adegboyegaayomide" /></p>
  #### my project
+ 
    ![Screenshot (6)](https://user-images.githubusercontent.com/83494187/183242562-15050390-f16d-4064-9c52-61d8a1bd2a84.png)
 
 
