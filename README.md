@@ -31,3 +31,10 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=adegboyegaayomide&show_icons=true&locale=en&layout=compact" alt="adegboyegaayomide" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=adegboyegaayomide&show_icons=true&locale=en" alt="adegboyegaayomide" /></p>
+ #### my project
+   ![Screenshot (6)](https://user-images.githubusercontent.com/83494187/183242562-15050390-f16d-4064-9c52-61d8a1bd2a84.png)
+
+
+#
+![Screenshot (5)](https://user-images.githubusercontent.com/83494187/183242582-0bc1f3fe-49c3-48ec-90e7-92b9ae8d17ea.png)
+![Screenshot (7)](https://user-images.githubusercontent.com/83494187/183242598-dea2c014-4614-4e1a-a0a2-53791a425a22.png)
